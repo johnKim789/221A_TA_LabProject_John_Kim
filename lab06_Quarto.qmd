@@ -57,9 +57,6 @@ ggplot(h1Data, aes(x = Sex_birth, y = preference_imp_physat,
   theme(legend.position = "none")
 ```
 
-### Observed trend
-
-Male respondents allocated more points to physical attractiveness on average than female respondents, although the distributions overlap substantially. The Intersex group was much smaller, so its distribution should be interpreted cautiously. These are descriptive patterns, not a test of the hypothesis.
 
 ## H2. Confidence in finding a new partner and commitment
 
